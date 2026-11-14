@@ -16,7 +16,7 @@
 <text class="in" x="56" y="84" font-size="13" font-weight="600" letter-spacing="3.5" fill="#f2b544">FULL-STACK AI ENGINEER</text>
 <text class="in2" x="54" y="148" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#f4f6f8">Nguyen Van Dat</text>
 <rect class="bar" x="56" y="168" width="64" height="3" rx="1.5" fill="#f2b544"/>
-<text class="in3" x="56" y="208" font-size="17" fill="#aab2bf">LLM agents, retrieval, and the product around them.</text>
+<text class="in3" x="56" y="208" font-size="17" fill="#aab2bf">LLM applications, tuned for cost, latency, and accuracy.</text>
 <text class="in3" x="56" y="232" font-size="13" fill="#6f7886">Ho Chi Minh City, Vietnam</text>
 </g>
 </svg>

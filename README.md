@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Nguyen Van Dat, Full-Stack AI Engineer" width="100%">
+  <img src="assets/hero.svg" alt="Nguyen Van Dat, Full-Stack AI Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -7,9 +7,13 @@
   <a href="mailto:ngvdat.w@gmail.com">Email</a>
 </p>
 
+## Focus
+
+<img src="assets/focus.svg" alt="Focus areas" width="100%">
+
 ## Tech stack
 
-<img src="assets/profile-stack.svg" alt="Tech stack" width="100%">
+<img src="assets/toolbox.svg" alt="Tech stack" width="100%">
 
 ## Public repositories
 
