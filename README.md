@@ -11,7 +11,7 @@
 
 <img src="assets/focus.svg" alt="Focus areas" width="100%">
 
-## Tech stack
+## Tech stack & frameworks
 
 <img src="assets/stack-all.svg" alt="Tech stack" width="100%">
 
