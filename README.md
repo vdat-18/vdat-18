@@ -9,7 +9,7 @@
 
 ## Focus
 
-<img src="assets/focus3.svg" alt="Focus areas" width="100%">
+<img src="assets/focus4.svg" alt="Focus areas" width="100%">
 
 ## Tech stack & frameworks
 
