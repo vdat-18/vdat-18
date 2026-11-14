@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 368" width="1000" height="368" role="img" aria-label="Tech stack">
+<style>
+:root{--cell:#f3f4f6;--line:#dfe2e7;--ink:#1f2328;--mut:#6b7380}
+@media (prefers-color-scheme:dark){:root{--cell:#1b1f26;--line:#2b313b;--ink:#e6e9ee;--mut:#8b94a3}}
+.cell{fill:var(--cell);stroke:var(--line);stroke-width:1}
+.dot{fill:#f2b544}
+.t{font:500 15px 'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--ink)}
+.h{font:700 12px 'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:3px;fill:var(--mut)}
+.p{opacity:0;animation:pop .55s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes pop{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g class="p" style="animation-delay:0.00s"><rect class="cell" x="0" y="6" width="188" height="46" rx="10"/><circle class="dot" cx="20" cy="29.0" r="4"/><text class="t" x="36" y="34.0">Python</text></g>
+<g class="p" style="animation-delay:0.05s"><rect class="cell" x="203" y="6" width="188" height="46" rx="10"/><circle class="dot" cx="223" cy="29.0" r="4"/><text class="t" x="239" y="34.0">FastAPI</text></g>
+<g class="p" style="animation-delay:0.10s"><rect class="cell" x="406" y="6" width="188" height="46" rx="10"/><circle class="dot" cx="426" cy="29.0" r="4"/><text class="t" x="442" y="34.0">TypeScript</text></g>
+<g class="p" style="animation-delay:0.15s"><rect class="cell" x="609" y="6" width="188" height="46" rx="10"/><circle class="dot" cx="629" cy="29.0" r="4"/><text class="t" x="645" y="34.0">PostgreSQL</text></g>
+<g class="p" style="animation-delay:0.20s"><rect class="cell" x="812" y="6" width="188" height="46" rx="10"/><circle class="dot" cx="832" cy="29.0" r="4"/><text class="t" x="848" y="34.0">Redis</text></g>
+<g class="p" style="animation-delay:0.25s"><rect class="cell" x="0" y="64" width="188" height="46" rx="10"/><circle class="dot" cx="20" cy="87.0" r="4"/><text class="t" x="36" y="92.0">LangGraph</text></g>
+<g class="p" style="animation-delay:0.30s"><rect class="cell" x="203" y="64" width="188" height="46" rx="10"/><circle class="dot" cx="223" cy="87.0" r="4"/><text class="t" x="239" y="92.0">BAML</text></g>
+<g class="p" style="animation-delay:0.35s"><rect class="cell" x="406" y="64" width="188" height="46" rx="10"/><circle class="dot" cx="426" cy="87.0" r="4"/><text class="t" x="442" y="92.0">DSPy</text></g>
+<g class="p" style="animation-delay:0.40s"><rect class="cell" x="609" y="64" width="188" height="46" rx="10"/><circle class="dot" cx="629" cy="87.0" r="4"/><text class="t" x="645" y="92.0">Qdrant</text></g>
+<g class="p" style="animation-delay:0.45s"><rect class="cell" x="812" y="64" width="188" height="46" rx="10"/><circle class="dot" cx="832" cy="87.0" r="4"/><text class="t" x="848" y="92.0">Neo4j</text></g>
+<g class="p" style="animation-delay:0.50s"><rect class="cell" x="0" y="122" width="188" height="46" rx="10"/><circle class="dot" cx="20" cy="145.0" r="4"/><text class="t" x="36" y="150.0">Graphiti</text></g>
+<g class="p" style="animation-delay:0.55s"><rect class="cell" x="203" y="122" width="188" height="46" rx="10"/><circle class="dot" cx="223" cy="145.0" r="4"/><text class="t" x="239" y="150.0">Docker</text></g>
+<g class="p" style="animation-delay:0.60s"><rect class="cell" x="406" y="122" width="188" height="46" rx="10"/><circle class="dot" cx="426" cy="145.0" r="4"/><text class="t" x="442" y="150.0">Langfuse</text></g>
+<g class="p" style="animation-delay:0.65s"><rect class="cell" x="609" y="122" width="188" height="46" rx="10"/><circle class="dot" cx="629" cy="145.0" r="4"/><text class="t" x="645" y="150.0">Git</text></g>
+<g class="p" style="animation-delay:0.70s"><rect class="cell" x="812" y="122" width="188" height="46" rx="10"/><circle class="dot" cx="832" cy="145.0" r="4"/><text class="t" x="848" y="150.0">AWS</text></g>
+<g class="p" style="animation-delay:0.75s"><rect class="cell" x="0" y="180" width="188" height="46" rx="10"/><circle class="dot" cx="20" cy="203.0" r="4"/><text class="t" x="36" y="208.0">LangChain</text></g>
+<g class="p" style="animation-delay:0.80s"><rect class="cell" x="203" y="180" width="188" height="46" rx="10"/><circle class="dot" cx="223" cy="203.0" r="4"/><text class="t" x="239" y="208.0">MCP</text></g>
+<g class="p" style="animation-delay:0.85s"><rect class="cell" x="406" y="180" width="188" height="46" rx="10"/><circle class="dot" cx="426" cy="203.0" r="4"/><text class="t" x="442" y="208.0">LiteLLM</text></g>
+<g class="p" style="animation-delay:0.90s"><rect class="cell" x="609" y="180" width="188" height="46" rx="10"/><circle class="dot" cx="629" cy="203.0" r="4"/><text class="t" x="645" y="208.0">HuggingFace</text></g>
+<g class="p" style="animation-delay:0.95s"><rect class="cell" x="812" y="180" width="188" height="46" rx="10"/><circle class="dot" cx="832" cy="203.0" r="4"/><text class="t" x="848" y="208.0">vLLM</text></g>
+<g class="p" style="animation-delay:1.00s"><rect class="cell" x="0" y="238" width="188" height="46" rx="10"/><circle class="dot" cx="20" cy="261.0" r="4"/><text class="t" x="36" y="266.0">Milvus</text></g>
+<g class="p" style="animation-delay:1.05s"><rect class="cell" x="203" y="238" width="188" height="46" rx="10"/><circle class="dot" cx="223" cy="261.0" r="4"/><text class="t" x="239" y="266.0">pgvector</text></g>
+<g class="p" style="animation-delay:1.10s"><rect class="cell" x="406" y="238" width="188" height="46" rx="10"/><circle class="dot" cx="426" cy="261.0" r="4"/><text class="t" x="442" y="266.0">DynamoDB</text></g>
+<g class="p" style="animation-delay:1.15s"><rect class="cell" x="609" y="238" width="188" height="46" rx="10"/><circle class="dot" cx="629" cy="261.0" r="4"/><text class="t" x="645" y="266.0">RabbitMQ</text></g>
+<g class="p" style="animation-delay:1.20s"><rect class="cell" x="812" y="238" width="188" height="46" rx="10"/><circle class="dot" cx="832" cy="261.0" r="4"/><text class="t" x="848" y="266.0">Celery</text></g>
+<g class="p" style="animation-delay:1.25s"><rect class="cell" x="0" y="296" width="188" height="46" rx="10"/><circle class="dot" cx="20" cy="319.0" r="4"/><text class="t" x="36" y="324.0">Grafana</text></g>
+<g class="p" style="animation-delay:1.30s"><rect class="cell" x="203" y="296" width="188" height="46" rx="10"/><circle class="dot" cx="223" cy="319.0" r="4"/><text class="t" x="239" y="324.0">Prometheus</text></g>
+<g class="p" style="animation-delay:1.35s"><rect class="cell" x="406" y="296" width="188" height="46" rx="10"/><circle class="dot" cx="426" cy="319.0" r="4"/><text class="t" x="442" y="324.0">RAGAS</text></g>
+<g class="p" style="animation-delay:1.40s"><rect class="cell" x="609" y="296" width="188" height="46" rx="10"/><circle class="dot" cx="629" cy="319.0" r="4"/><text class="t" x="645" y="324.0">Docling</text></g>
+<g class="p" style="animation-delay:1.45s"><rect class="cell" x="812" y="296" width="188" height="46" rx="10"/><circle class="dot" cx="832" cy="319.0" r="4"/><text class="t" x="848" y="324.0">SQL</text></g>
+</svg>

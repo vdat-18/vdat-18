@@ -13,7 +13,7 @@
 
 ## Tech stack
 
-<img src="assets/toolbox.svg" alt="Tech stack" width="100%">
+<img src="assets/stack-all.svg" alt="Tech stack" width="100%">
 
 ## Public repositories
 
