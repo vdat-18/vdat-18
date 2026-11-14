@@ -9,11 +9,11 @@
 
 ## Focus
 
-<img src="assets/focus.svg" alt="Focus areas" width="100%">
+<img src="assets/focus2.svg" alt="Focus areas" width="100%">
 
 ## Tech stack & frameworks
 
-<img src="assets/stack-all.svg" alt="Tech stack" width="100%">
+<img src="assets/stack-grid.svg" alt="Tech stack" width="100%">
 
 ## Public repositories
 
